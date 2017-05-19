@@ -1,4 +1,4 @@
-##Running app locally:
+## Running app locally:
 
 1. Clone repository
 2. [Install Yarn](https://yarnpkg.com/en/docs/install)
