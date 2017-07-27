@@ -9,10 +9,10 @@
     "lint": "eslint . --ext .jsx,.js; true"
   },
   "dependencies": {
-    "next": "^2.3.1",
+    "next": "^3.0.1-beta.19",
     "prop-types": "^15.5.10",
-    "react": "^15.5.4",
-    "react-dom": "^15.5.4"
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
   },
   "devDependencies": {
     "css-loader": "^0.28.1",
